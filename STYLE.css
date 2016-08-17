@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+body {
+  background-color: #bdb76b;
+  font-family: Arial, sans-serif;
+}
+
+.box {
+	background-color: #03396c;
+    border-style: groove;
+    border-width: 10px;
+    border-color: #ffffff;
+	padding: 10px 30px;
+	width: 400px;
+	margin: 50px auto;
+}
+
+h1 {
+	color: #ffffff;
+    font-variant: small-caps;
+    text-shadow: 3px 4px 6px #000000;
+    margin-bottom: 30px;
+}
+
+.remember_me {
+	color: #ffffff;
+    font-size: smaller;
+}
+
+.login_help {
+	padding: 5px 5px;
+    font-size: smaller;
+}
+
+.login_help p {
+	color: #ffffff;
+}
+
+.login_help a {
+	color: #ffffff;
+}
